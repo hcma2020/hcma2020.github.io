@@ -1,0 +1,44 @@
+- title: Wu Liu
+  name: Name-1
+  subtitle: JD AI Research, Beijing, China
+  img: wuliu.jpg
+  thumbnail: wuliu.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: More Info
+
+- title: Chuang Gan
+  name: Name-2
+  subtitle: MIT-IBM Watson AI Lab
+  img: chuanggan.jpg
+  thumbnail: chuanggan.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: More Info
+
+- title: Jingkuan Song
+  name: Name-3
+  subtitle: University of Electronic Science and Technology of China
+  img: song.jpg
+  thumbnail: song.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: More Info
+
+- title: Dingwen Zhang
+  name: Name-3
+  subtitle: Xidian University
+  img: zhang.jpg
+  thumbnail: zhang.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: More Info
+
+- title: John Smith
+  name: Name-3
+  subtitle: IBM Research
+  img: smith.jpg
+  thumbnail: smith.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: More Info
