@@ -1,5 +1,5 @@
 - title: Wu Liu
-  name: Name-1
+  name: Wu Liu
   subtitle: JD AI Research, Beijing, China
   img: wuliu.jpg
   thumbnail: wuliu.jpg
@@ -8,7 +8,7 @@
   description: More Info
 
 - title: Chuang Gan
-  name: Name-2
+  name: Chuang Gan
   subtitle: MIT-IBM Watson AI Lab
   img: chuanggan.jpg
   thumbnail: chuanggan.jpg
@@ -17,7 +17,7 @@
   description: More Info
 
 - title: Jingkuan Song
-  name: Name-3
+  name: Jingkuan Song
   subtitle: University of Electronic Science and Technology of China
   img: song.jpg
   thumbnail: song.jpg
@@ -26,7 +26,7 @@
   description: More Info
 
 - title: Dingwen Zhang
-  name: Name-3
+  name: Dingwen Zhang
   subtitle: Xidian University
   img: zhang.jpg
   thumbnail: zhang.jpg
@@ -35,7 +35,7 @@
   description: More Info
 
 - title: John Smith
-  name: Name-3
+  name: John Smith
   subtitle: IBM Research
   img: smith.jpg
   thumbnail: smith.jpg
