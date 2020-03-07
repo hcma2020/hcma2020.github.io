@@ -8,24 +8,24 @@
                 </div>
             </div>
             <div class="row">
-            {% for person in site.data.twenty_20.organizers %}
+            {% for post in site.data.twenty_20.organizers %}
                 <div class="col-md-6 col-sm-6 speakers-item">
-                    <a href="#{{ person.name }}" class="speakers-link" data-toggle="modal">
+                    <a href="{{ post.name }}" class="speakers-link" data-toggle="modal">
                         <div class="speakers-hover">
                             <div class="speakers-hover-content">
                                 <i class="fa fa-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="../css/2020_style/img/organizers/{{ person.thumbnail }}" class="img-responsive img-centered" alt="">
+                        <img src="../css/2020_style/img/organizers/{{ post.thumbnail }}" class="img-responsive img-centered" alt="">
                     </a>
                     <div class="speakers-caption">
-                        <h4>{{ person.title }}</h4>
-                        <p class="text-muted">{{ person.subtitle }}</p>
+                        <h4>{{ post.title }}</h4>
+                        <p class="text-muted">{{ post.subtitle }}</p>
                     </div>
                 </div>
                 <div class="col-md-6 col-sm-6">
                     <div>
-                        <p>{{person.description}}</p>
+                        <p>{{post.description}}</p>
                     </div>
                 </div>
             {% endfor %}
