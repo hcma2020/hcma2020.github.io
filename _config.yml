@@ -6,14 +6,14 @@ url: "hcma2020.github.io" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 
-facebook:
-  app_id: 
+#facebook:
+#  app_id: 
 
-logo: "./css/2020_style/img/icon-large.png"
+# logo: "./css/2020_style/img/icon-large.png"
 
-social: 
-  name: Your Facebook Page
-  link: "https://www.facebook.com/"
+#social: 
+#  name: Your Facebook Page
+#  link: "https://www.facebook.com/"
 
 # google_site_verification: googleXXXXXXXXXXXXXXXX.html
 
