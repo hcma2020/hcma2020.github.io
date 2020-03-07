@@ -8,7 +8,7 @@
                 </div>
             </div>
             <div class="row">
-            {% for team in site.data.twenty_20.organizers %}
+            {% for person in site.data.twenty_20.organizers %}
                 <div class="col-md-6 col-sm-6 speakers-item">
                     <a href="#{{ team.name }}" class="speakers-link" data-toggle="modal">
                         <div class="speakers-hover">
@@ -19,13 +19,13 @@
                         <img src="../css/2017_style/img/team/{{ team.thumbnail }}" class="img-responsive img-centered" alt="">
                     </a>
                     <div class="speakers-caption">
-                        <h4>{{ team.title }}</h4>
-                        <p class="text-muted">{{ team.subtitle }}</p>
+                        <h4>{{ person.title }}</h4>
+                        <p class="text-muted">{{ person.subtitle }}</p>
                     </div>
                 </div>
                 <div class="col-md-6 col-sm-6">
-                    <div >
-                        <>
+                    <div>
+                        <p>{{person.description}}</p>
                     </div>
                 </div>
             {% endfor %}
