@@ -10,12 +10,12 @@
             <div class="row">
             {% for post in site.data.twenty_20.organizers %}
                 <div class="col-md-4 col-sm-6 speakers-item">
-                    <a href="#{{ post.name }}" class="speakers-link" data-toggle="modal">
-                        <div class="speakers-hover">
+                    <a href="{{ post.name }}" class="speakers-link" data-toggle="modal">
+                        <!-- <div class="speakers-hover">
                             <div class="speakers-hover-content">
                                 <i class="fa fa-plus fa-3x"></i>
                             </div>
-                        </div>
+                        </div> -->
                         <img src="../css/2020_style/img/organizers/{{ post.thumbnail }}" class="img-responsive img-centered" alt="{{ post.alt }}">
                     </a>
                     <div class="speakers-caption">
@@ -26,6 +26,6 @@
             {% endfor %}
             </div>
             <!-- <p>Visit 2016's page.</p> -->
-            <center><a href="/organizers_info.html" class="page-scroll btn btn-xl">More information</a></center>
+            <center><a href="./organizers_info.html" class="page-scroll btn btn-xl">More information</a></center>
         </div>
     </section>
