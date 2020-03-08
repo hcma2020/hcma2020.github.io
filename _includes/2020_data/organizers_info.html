@@ -10,7 +10,7 @@
             <form id="searchForm" class="col-md-12 col-md-offset-5 form-horizontal" role="form">
                 {% for post in site.data.twenty_20.organizers %}
                     <div class="row">
-                        <div class="col-md-1 speakers-item">
+                        <div class="speakers-item">
                             <a href="{{ post.name }}" class="speakers-link" data-toggle="modal">
                                 <img src="../css/2020_style/img/organizers/{{ post.thumbnail }}" class="img-responsive img-centered">
                             </a>
@@ -19,7 +19,7 @@
                             <p class="text-muted" align="center">{{ post.subtitle }}</p>
                         </div>
                         </div>
-                        <div class="col-md-6">
+                        <div >
                             <div>
                                 <p>{{post.description}}</p>
                             </div>
