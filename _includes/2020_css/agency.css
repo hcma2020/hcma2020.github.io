@@ -57,6 +57,10 @@ p.large {
     font-size: 120%;
 }
 
+p.super-large {
+    font-size: 200%;
+}
+
 a,
 a:hover,
 a:focus,
