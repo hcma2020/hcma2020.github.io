@@ -10,10 +10,10 @@
             <div class="row">
             {% for post in site.data.twenty_20.organizers %}
                 <div class="col-md-3 col-sm-4 speakers-item">
-                    <a href="{{ post.name }}" class="speakers-link" data-toggle="modal">
-                        <img src="../css/2020_style/img/organizers/{{ post.thumbnail }}" class="img-centered img-rounded"  width="224px" height="224px"/>
-                    </a>
-                    <div class="speakers-caption">
+                    <!-- <a href="{{ post.name }}" class="speakers-link" data-toggle="modal"> -->
+                    <center><img src="../css/2020_style/img/organizers/{{ post.thumbnail }}" class="img-centered img-rounded"  width="224px" height="224px"/></center>
+                    <!-- </a> -->
+                    <div class="speakers-caption" >
                         <center><h4>{{ post.title }}</h4></center>
                         <center><p class="text-muted">{{ post.subtitle }}</p></center>
                     </div>
