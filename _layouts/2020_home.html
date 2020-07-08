@@ -1,5 +1,12 @@
 <!DOCTYPE html>
 <html>
+    <style type="text/css">
+        /*INCLUDE MAIN CSS FILE*/
+        {% capture criticalcss %}
+          {% include /2020_css/critical.scss %}
+        {% endcapture %}
+        {{ criticalcss | scssify }}
+    </style>
     {% include 2020_data/js.html %}
     {% include 2020_data/head.html %}
     <body id="page-top" class="index">
