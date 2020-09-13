@@ -109,6 +109,9 @@ aside.clients,
 .bg-darkest-gray {
     background-color: #222;
 }
+.bg-white {
+    background-color: #fff
+}
 
 .btn-primary {
     border-color: #{{ site.data.template.color.primary }};
