@@ -1,18 +1,25 @@
-<!-- Services Section -->
-    <section id="programs" class="bg-light-gray">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">Tentative Programs</h2>
-                </div>
-            </div>
-            <div class="row container">
-                <p class="large text-center">
-                    <ul>
-                        <li>To Be Announced</li>
-                       
-                    </ul>
-                </p>                
+<section id="programs" class="bg-light-gray">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2 class="section-heading">Organizers</h2>
+                <h3 class="section-subheading text-muted"></h3>
             </div>
         </div>
-    </section>
+        <form id="searchForm" class="col-md-12 form-horizontal" role="form">
+            {% for post in site.data.twenty_20.programs %}
+                <div class="row">
+                    <div class="col-md-2">
+                        <p valign="top">{{ post.time}}</p>
+                    </div>
+                    <div class="col-md-8" style="vertical-align: text-top; margin-bottom:-3px">
+                        <p>{{ post.title}}</p>
+                    </div>
+                    <div class="col-md-2">
+                        <p valign="top">{{post.people}}</p>
+                    </div>
+                </div>
+            {% endfor %}
+        </form>
+    </div>
+</section>

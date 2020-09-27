@@ -1,12 +1,79 @@
-- title: Dr. Dima Damen
-  time: Dima Damen
+- title: 12-Oct 2020 (all times are given in Eastern Time UTC-5)
+  time: 
   people: 
 
-- title: Prof. Cees Snoek
-  name: Cees Snoek
-  subtitle: the University of Amsterdam
-  thumbnail: cees.png
-- title: Ziwei Liu
-  name: Ziwei Liu
-  subtitle: Nanyang Technological University
-  thumbnail: ziwei.png
+- title: Workshop Opening
+  time: 9:00-9:10 AM
+  people: 
+
+- title: Keynote & Invited Talks
+  time: 
+  people: 
+
+- title: Human-Centric Object Interactions – A Fine-Grained Perspective from Egocentric Videos
+  time: 9:10-10:00 AM
+  people: Dima Damen (University of Bristol)
+
+- title: Sensing, Understanding and Synthesizing Humans in an Open World
+  time: 10:00-10:50 AM
+  people: Ziwei Liu (The Chinese University of Hong Kong)
+
+- title: Session 1":" Multimedia Event Detection
+  time: 11:00-12:00 AM
+  people: 
+
+- title: Intra and inter-modality interactions for audio-visual event detection
+  time: 
+  people: Mathilde Brousmiche, StÉPhane Dupont, Jean Rouat
+
+- title: Personalized User Modelling for Sleep Insight
+  time: 
+  people: Dhruv D Upadhyay, Vaibhav Pandey, Nitish Nag, Ramesh Jain
+
+- title: AI at the Disco":" Low Sample Frequency Human Activity Recognition for Night Club Experiences
+  time: 
+  people: Amritpal Singh Gill, Sergio Cabrero, Pablo Cesar, David A Shamma
+
+- title: Keynote & Invited Talks
+  time: 
+  people: 
+
+- title: Unseen Activity Recognition in Space and Timef
+  time: 1:00-1:50 PM
+  people: Cees G.M. Snoek (University of Amsterdam)
+
+- title: Session 2":" Face, Gesture, and Body Pose
+  time: 2:00-3:00 PM
+  people: 
+
+- title: Towards Purely Unsupervised Disentanglement of Appearance and Shape for Person Images Generation
+  time: 
+  people: Hongtao Yang, Tong Zhang, Wenbing Huang, Xuming He, Fatih Porikli 
+
+- title: R-FENet":" A Region-based Facial Expression Recognition Method Inspired by Semantic Information of Action Units
+  time: 
+  people: Cong Wang, Ke Lu, Jian Xue, Yanfu Yan
+
+- title: StarGAN-EgVA":" Emotion Guided Continuous Affect Synthesis
+  time: 
+  people: Li Yu, Dolzodmaa Davaasuren, Shivansh Rao, Vikas Kumar
+
+- title: Session 3":" Human Object Interaction
+  time: 3:00-4:00 PM
+  people: 
+
+- title: Human-Object Interaction Detection":" A Quick Survey and Examination of Methods
+  time: 
+  people: Trevor Bergstrom, Humphrey Shi
+
+- title: Online Video Object Detection via Local and Mid-Range Feature Propagation
+  time: 
+  people: Zhifan Zhu, Zechao Li
+    
+- title: iWink":" Exploring Eyelid Gestures for Mobile Devices
+  time: 
+  people: Zhen Li, Mingming Fan, Ying Han, Khai Truong
+    
+- title: Commonsense Learning":" An Indispensable Path towards Human-centric Multimedia
+  time: 
+  people: Bin Huang, Siao Tang, Guangyao Shen, Guohao Li, Xin Wang, Wenwu Zhu
