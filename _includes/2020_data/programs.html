@@ -16,7 +16,11 @@
                         <p valign="top">{{ post.time}}</p>
                     </div>
                     <div class="col-md-8" style="vertical-align: text-top; margin-bottom:-3px">
-                        <p>{{ post.title | replace: ":", ": "}}</p>
+                        <p>{{ post.title | replace: ":", ": "}} 
+                            {% if post.link != "none"%}
+                            [<a href='{{ post.link}}'>Video Link</a>]
+                            {% endif %} 
+                        </p>
                     </div>
                     <div class="col-md-2">
                         <p valign="top">{{post.people}}</p>

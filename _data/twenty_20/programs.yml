@@ -1,75 +1,94 @@
 - title: Workshop Opening
   time: 9:00-9:10 AM
-  people: 
+  people:
+  link: none
 
 - title: Keynote & Invited Talks
   time: 
-  people: 
+  people:
+  link: none
 
 - title: Human-Centric Object Interactions – A Fine-Grained Perspective from Egocentric Videos
   time: 9:10-10:00 AM
   people: Dima Damen, University of Bristol
+  link: none
 
 - title: Sensing, Understanding and Synthesizing Humans in an Open World
   time: 10:00-10:50 AM
   people: Ziwei Liu,  The Chinese University of Hong Kong
+  link: none
 
 - title: Session 1:Multimedia Event Detection
   time: 11:00-12:00 AM
   people: 
+  link: none
 
 - title: Intra and inter-modality interactions for audio-visual event detection
   time: 11:00-11:20 AM
   people: Mathilde Brousmiche, StÉPhane Dupont, Jean Rouat
+  link: https://drive.google.com/file/d/1k9pmjDQFP77Lc8TLcAffWYB0qEvdqZRt/view?usp=sharing
 
 - title: Personalized User Modelling for Sleep Insight
   time: 11:20-11:40 AM
   people: Dhruv D Upadhyay, Vaibhav Pandey, Nitish Nag, Ramesh Jain
+  link: https://drive.google.com/file/d/11d71RqXjhLlfiD9rCkx7OqWMKWv0yqP7/view?usp=sharing
 
 - title: AI at the Disco:Low Sample Frequency Human Activity Recognition for Night Club Experiences
   time: 11:40-12:00 AM
   people: Amritpal Singh Gill, Sergio Cabrero, Pablo Cesar, David A Shamma
+  link: https://drive.google.com/file/d/1VwM4vbALPCjKzOfc_SXX_NQuxdZ4EkWy/view?usp=sharing
 
 - title: Keynote & Invited Talks
   time: 
-  people: 
+  people:
+  link: none
 
 - title: Unseen Activity Recognition in Space and Time
   time: 1:00-1:50 PM
   people: Cees Snoek, University of Amsterdam
+  link: none
 
 - title: Session 2:Face, Gesture, and Body Pose
   time: 2:00-3:00 PM
   people: 
+  link: none
 
 - title: Towards Purely Unsupervised Disentanglement of Appearance and Shape for Person Images Generation
   time: 2:00-2:20 PM
   people: Hongtao Yang, Tong Zhang, Wenbing Huang, Xuming He, Fatih Porikli 
+  link: https://drive.google.com/file/d/1Vs7oQ9vohB0QVxcs1dpkOwdIoguAeK_m/view?usp=sharing
 
 - title: R-FENet:A Region-based Facial Expression Recognition Method Inspired by Semantic Information of Action Units
   time: 2:20-2:40 PM
   people: Cong Wang, Ke Lu, Jian Xue, Yanfu Yan
+  link: https://drive.google.com/file/d/1zTo7FEIt7nGRfvUaI2dd7Un-YHq6n50X/view?usp=sharing
 
 - title: StarGAN-EgVA:Emotion Guided Continuous Affect Synthesis
   time: 2:40-3:00 PM
   people: Li Yu, Dolzodmaa Davaasuren, Shivansh Rao, Vikas Kumar
+  link: https://drive.google.com/file/d/1w7gJ3zn94e-c6OW03PTQqZsdiIyUS4np/view?usp=sharing
 
 - title: Session 3:Human Object Interaction
   time: 3:00-4:20 PM
   people: 
+  link: none
 
 - title: Human-Object Interaction Detection:A Quick Survey and Examination of Methods
   time: 3:00-3:20 PM
   people: Trevor Bergstrom, Humphrey Shi
+  link: https://drive.google.com/file/d/1Ik3p890k0Du26M3--6QzWpVDC-R9moYP/view?usp=sharing
 
 - title: Online Video Object Detection via Local and Mid-Range Feature Propagation
   time: 3:20-3:40 PM
   people: Zhifan Zhu, Zechao Li
+  link: https://drive.google.com/file/d/1Uoc_nWlLGPmOZxcpUZtdzmgJS36ddnxj/view?usp=sharing
     
 - title: iWink:Exploring Eyelid Gestures for Mobile Devices
   time: 3:40-4:00 PM
   people: Zhen Li, Mingming Fan, Ying Han, Khai Truong
+  link: https://drive.google.com/file/d/1H_qVJXA161bsXMikML-FrlMzvkbnNUB6/view?usp=sharing
     
 - title: Commonsense Learning:An Indispensable Path towards Human-centric Multimedia
   time: 4:00-4:20 PM
   people: Bin Huang, Siao Tang, Guangyao Shen, Guohao Li, Xin Wang, Wenwu Zhu
+  link: https://drive.google.com/file/d/1PFSelTmMv8Qp7dtrlFvn8tT9s2NAGLRF/view?usp=sharing
